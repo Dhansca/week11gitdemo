@@ -2,3 +2,5 @@ this is my code
 
 ansible
 Terraform
+
+This is GIT class. Hope you are able to follow.
