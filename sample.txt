@@ -6,3 +6,5 @@ Terraform
 This is GIT class. Hope you are able to follow.
 
 We do Git Commit 3
+
+This is part of branch. You will see more features and code.
