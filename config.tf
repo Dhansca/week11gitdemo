@@ -15,3 +15,8 @@ resource "aws_vpc" "gitVPC" {
     
     cidr = 
 }
+
+data "aws_ami" "amiid" {
+
+
+}
